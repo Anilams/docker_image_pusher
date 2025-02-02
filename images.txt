@@ -7,3 +7,4 @@
 yipengfei/movie-robot
 dyrnq/open-webui
 emby/embyserver
+linuxserver/qbittorrent
