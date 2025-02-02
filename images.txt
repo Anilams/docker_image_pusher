@@ -7,3 +7,4 @@ xhofe/alist:latest
 #在下面添加需要的镜像
 yipengfei/movie-robot
 dyrnq/open-webui
+emby/embyserver
